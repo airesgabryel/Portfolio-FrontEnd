@@ -6,6 +6,8 @@
 
 
 body {
+    height: 100vh;/*Altura do [viewport height], definindo em 100%*/
+    box-sizing: border-box;/*Definindo border-box para elementos filhos não sairem do elemento pai (img não sai do body)*/
     background-color: #F2F2F2;
     color: #6C548C;
 }
