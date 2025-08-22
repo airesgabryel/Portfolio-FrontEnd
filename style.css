@@ -1,3 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+
 body {
     background-color: #F2F2F2;
     color: #6C548C;
@@ -7,8 +14,11 @@ a {
     color: #3C2E59;
 }
 
-.titulo-destaque {
+strong.titulo-destaque {
     color:#338C30;
+    font-style: italic;
+    font-weight: 500;
+    
 }
 
 
