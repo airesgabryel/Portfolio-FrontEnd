@@ -1,4 +1,4 @@
-* {
+* {/*Zerando padrões CSS*/
     margin: 0;
     padding: 0;
     
@@ -23,6 +23,10 @@ strong.titulo-destaque {
     
 }
 
+.apresentacao{
+    display: flex;/*Definindo o display flexível*/
+    align-items: center;/*Alinhando os itens ao centro*/
+}
 
 
 
