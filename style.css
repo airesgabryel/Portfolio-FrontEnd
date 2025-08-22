@@ -1,11 +1,22 @@
 body {
-    background-color: black;
-    color: #F6F6F6;
-    strong {
-        color:blue;
-    }
+    background-color: #F2F2F2;
+    color: #6C548C;
 }
 
 a {
-    color: DodgerBlue;
+    color: #3C2E59;
 }
+
+strong {
+    color:#338C30;
+}
+
+/*
+esquema de cores:
+
+#6C548C roxo claro
+#3C2E59 roxo escuro
+#338C30 verde escuro
+#5DD959 verde claro
+#F2F2F2 branco
+*/
