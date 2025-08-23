@@ -18,8 +18,8 @@ a {
 
 strong.titulo-destaque {
     color:#338C30;
-    font-style: italic;
-    font-weight: 500;
+    font-style: italic;/*Atribuindo italico ao texto*/
+    font-weight: 500;/*Grossura da fonte (até 600)*/
     
 }
 
@@ -27,7 +27,6 @@ strong.titulo-destaque {
     display: flex;/*Definindo o display flexível*/
     align-items: center;/*Alinhando os itens ao centro*/
 }
-
 
 
 /*
