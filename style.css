@@ -24,18 +24,20 @@ strong.titulo-destaque {
 .apresentacao{
     margin: 10%;
     display: flex;  /*Definindo o display flexível*/
-    align-items: center;    /*Alinhando os itens do display flex ao centro*/
+    align-items:center;    /*Alinhando os itens do display flex ao centro*/
     justify-content: space-between; /*Alinhando itens ao longo da linha(enquanto tiver espaço, vai para o lado*/
     /*flex-direction:   row(padrão), row-reverse, column, column-reverse |altera direção de alinhamento*/
 }
 
+.apresentacao__conteudo{
+    width: 615px;
+    
+}
 
-/*
-esquema de cores:
+.apresentacao__conteudo__titulo{
+    font-size: 36px;
+}
 
-#6C548C roxo claro
-#3C2E59 roxo escuro
-#338C30 verde escuro
-#5DD959 verde claro
-#F2F2F2 branco
-*/
+.apresentacao__conteudo_texto{
+    font-size: 24px;
+}
