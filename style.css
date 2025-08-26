@@ -1,13 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&display=swap');
 /*Importando fontes*/
 
+* {
 
-* {/*Zerando padrões CSS*/
     margin: 0;
     padding: 0;
     
-}
-
+}/*Zerando padrões CSS*/
 
 body {
     height: 100vh;/*Altura do [viewport height], definindo em 100%*/
