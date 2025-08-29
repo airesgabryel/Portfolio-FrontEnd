@@ -5,11 +5,11 @@
 
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    overflow: hidden;/*Zerando padrões CSS*/
 }
 
-
 body {
+
     height: 100vh;/*Altura do [viewport height], definindo em 100%*/
     box-sizing: border-box;/*Definindo border-box para elementos filhos não sairem do elemento pai (img não sai do body)*/
     background-color: #000000;
