@@ -22,6 +22,10 @@ img{
     width: 550px;
 }
 
+footer{
+    opacity: 0.5;
+}
+
 .titulo-destaque {
     color:#2293fd;
      
