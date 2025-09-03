@@ -86,7 +86,17 @@ footer{
     color: #F6F6F6;
     font-family: "Montserrat", sans-serif;
     border: 2px solid #22D4FD;
+    
 
     /* background-color: #0ebbe2; */
+}
+
+.apresentacao__links__icon{
+    width: 25px;
+    height: 25px;
+    border-radius:5px;
+    filter:grayscale(0.7)
+    
+
 }
 
