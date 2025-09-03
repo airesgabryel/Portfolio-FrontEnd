@@ -17,10 +17,7 @@ body {
 
 }
 
-img{
-    height:488px;
-    width: 550px;
-}
+
 
 footer{
     opacity: 0.5;
@@ -29,6 +26,11 @@ footer{
 .titulo-destaque {
     color:#2293fd;
      
+}
+
+#img__me{
+    height:488px;
+    width: 550px;
 }
 
 .apresentacao{
