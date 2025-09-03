@@ -75,7 +75,9 @@ footer{
 }
 
 .apresentacao__links__link{
-    
+    justify-content: center;
+    gap: 16px;
+    display: flex;
     width: 378px;
     text-align: center;
     border-radius: 8px;
@@ -87,6 +89,7 @@ footer{
     font-family: "Montserrat", sans-serif;
     border: 2px solid #22D4FD;
     
+    
 
     /* background-color: #0ebbe2; */
 }
@@ -95,7 +98,7 @@ footer{
     width: 25px;
     height: 25px;
     border-radius:5px;
-    filter:grayscale(0.7)
+    filter:grayscale(0.7);
     
 
 }
