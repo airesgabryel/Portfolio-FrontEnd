@@ -22,14 +22,6 @@ body {
 }
 
 
-
-
-
-#img__me{
-    height:488px;
-    width: 550px;
-}
-
 .apresentacao{
     padding: 8% 15%;
     display: flex;  /*Definindo o display flexível*/
@@ -102,6 +94,11 @@ body {
     height: 25px;
     border-radius:5px;
     filter:grayscale(0.7);
+}
+
+#img__me{
+    height:488px;
+    width: 550px;
 }
 
 .rodape {
