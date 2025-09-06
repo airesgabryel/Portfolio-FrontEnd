@@ -16,7 +16,10 @@ body {
 
 }
 
-
+.cabecalho__menu__link {
+    padding: 5px;
+    margin: 10px;
+}
 
 
 
