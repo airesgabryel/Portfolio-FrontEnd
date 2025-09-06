@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 /*Importando fontes*/
 
+:root {
+    --cor-primaria: #000000;
+    --cor-secundaria: #F6F6F6;
+    --cor-terciaria: #22D4FD;
+}
+
 * {
 
     margin: 0;
@@ -8,12 +14,10 @@
 }
 
 body {
-
     /* height: 100vh;/*Altura do [viewport height], definindo em 100% */
     box-sizing: border-box;/*Definindo border-box para elementos filhos não sairem do elemento pai (img não sai do body)*/
     background-color: #000000;
     color: #F6F6F6;
-
 }
 
 .cabecalho {
