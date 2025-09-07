@@ -2,11 +2,13 @@
 /*Importando fontes*/
 
 :root {
+    /*Paleta de cores*/
     --cor-primaria: #1B3C53;
     --cor-secundaria: #F9F3EF;
     --cor-terciaria: #D2C1B6;
     --cor-hover: #456882;
 
+    /*Fontes*/
     --fonte-primaria: 'Krona One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
 }
