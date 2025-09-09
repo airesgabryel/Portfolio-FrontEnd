@@ -121,9 +121,10 @@ body {
     filter:grayscale(0.7);
 }
 
-.apresentacao__imagem {
-    height:488px;
-    width: 550px;
+.apresentacao__imagem{
+    width: 50%;
+    
+
 }
 
 .rodape {
