@@ -121,7 +121,7 @@ body {
     filter:grayscale(0.7);
 }
 
-#img__me{
+.apresentacao__imagem {
     height:488px;
     width: 550px;
 }
