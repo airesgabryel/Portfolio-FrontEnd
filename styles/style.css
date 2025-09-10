@@ -124,7 +124,7 @@ body {
 }
 
 .apresentacao__imagem{
-    width: 50%;
+    width: 35%;
     
     
 
@@ -143,9 +143,14 @@ body {
 
 @media (max-width: 1200px)
 {
+    .cabecalho {
+        padding: 10%;
+    }
     .apresentacao{
         flex-direction: column-reverse;
     }
+
+    
 
     
 }
