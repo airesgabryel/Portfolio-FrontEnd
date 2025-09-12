@@ -111,7 +111,7 @@ body {
     font-family: var(--fonte-secundaria);
     /* background-color: #0ebbe2; */
 }
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
     background-color: var(--cor-hover);
     
 }
@@ -150,6 +150,7 @@ body {
     .cabecalho__menu {
         justify-content: center;
     }
+    
     
     .apresentacao{
         flex-direction: column-reverse;
