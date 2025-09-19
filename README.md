@@ -15,7 +15,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-### 🛠️ Funcionalidades e Aprendizados
+### 🛠️ Funcionalidades
 
 * **Layout Flexbox:** O projeto utiliza o **Flexbox** para organizar e alinhar os elementos de forma flexível, como o menu de navegação e as seções da página.
 * **Responsividade:** O layout foi ajustado para se adaptar a diferentes tamanhos de tela.
