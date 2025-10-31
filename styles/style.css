@@ -53,7 +53,6 @@ body {
     align-items:center;    /*Alinhando os itens do display flex ao centro*/
     justify-content: space-between; /*Alinhando itens ao longo da linha(enquanto tiver espaço, vai para o lado*/
     gap: 82px;
-    /*flex-direction:   row(padrão), row-reverse, column, column-reverse |altera direção de alinhamento*/
 }
 
 .apresentacao__conteudo{
