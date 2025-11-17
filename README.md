@@ -43,7 +43,7 @@ Os próximos passos no desenvolvimento deste projeto incluem:
 
 ## 📝 Licença
 
-Este software é **open source**, e o código está disponível para estudo e cópia. Sinta-se à vontade para usá-lo como base para seus próprios projetos.
+Este software é **open source**, o código está disponível para estudo e cópia. Sinta-se à vontade para usá-lo como base para seus próprios projetos.
 
 
 ## 📧 Contato
