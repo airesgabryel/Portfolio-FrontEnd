@@ -7,16 +7,12 @@ A página principal apresenta uma breve introdução sobre mim, minhas especiali
 ---
 
 ### 🚀 Tecnologias Utilizadas
-
-O projeto foi desenvolvido com as seguintes tecnologias:
-
 * **HTML:** Estrutura semântica da página.
 * **CSS:** Estilização e responsividade. As fontes **Krona One** e **Montserrat** foram importadas do Google Fonts para dar um visual moderno ao projeto.
 
 ---
 
 ### 🛠️ Funcionalidades
-
 * **Layout Flexbox:** O projeto utiliza o **Flexbox** para organizar e alinhar os elementos de forma flexível, como o menu de navegação e as seções da página.
 * **Responsividade:** O layout foi ajustado para se adaptar a diferentes tamanhos de tela.
 * **Design Clean:** A escolha de cores e fontes foi pensada para criar um design minimalista e agradável.
