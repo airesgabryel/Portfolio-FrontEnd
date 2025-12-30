@@ -1,7 +1,6 @@
 # 💻 Sobre o Projeto
 
 Este projeto é um **portfólio pessoal** criado para demonstrar minhas habilidades em desenvolvimento Front-end. Ele foi desenvolvido com foco em praticar a criação de interfaces responsivas e elegantes usando as tecnologias base da web.
-
 A página principal apresenta uma breve introdução sobre mim, minhas especialidades (React, HTML e CSS) e links diretos para minhas redes, como LinkedIn, GitHub e Instagram.
 
 ---
