@@ -21,7 +21,7 @@ A página principal apresenta uma breve introdução sobre mim, minhas especiali
 
 ### 📥 Como Acessar o Projeto
 
-Você pode visualizar a aplicação online através do link no Vercel:
+Você pode visualizar a aplicação online através do link:
 
 <a href="https://portfolio-front-end-delta-lac.vercel.app/">Acessar Portfolio</a>
 
